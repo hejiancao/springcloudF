@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-client" />
+        <module name="eureka-config-client" />
+        <module name="eureka-config-server" />
+        <module name="eureka-feign" />
+        <module name="eureka-gateway" />
+        <module name="eureka-hystrix-dashboard" />
+        <module name="eureka-ribbon" />
+        <module name="eureka-server" />
+        <module name="eureka-zuul" />
+        <module name="zipkin-service1" />
+        <module name="zipkin-service2" />
+        <module name="zipkin-service3" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="center" target="1.8" />
+      <module name="eureka-client" target="1.8" />
+      <module name="eureka-config-client" target="1.8" />
+      <module name="eureka-config-server" target="1.8" />
+      <module name="eureka-feign" target="1.8" />
+      <module name="eureka-gateway" target="1.8" />
+      <module name="eureka-hystrix-dashboard" target="1.8" />
+      <module name="eureka-ribbon" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-zuul" target="1.8" />
+      <module name="zipkin-service1" target="1.8" />
+      <module name="zipkin-service2" target="1.8" />
+      <module name="zipkin-service3" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

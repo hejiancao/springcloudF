@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/center.iml" filepath="$PROJECT_DIR$/.idea/center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-config-client/eureka-config-client.iml" filepath="$PROJECT_DIR$/eureka-config-client/eureka-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-config-server/eureka-config-server.iml" filepath="$PROJECT_DIR$/eureka-config-server/eureka-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-feign/eureka-feign.iml" filepath="$PROJECT_DIR$/eureka-feign/eureka-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-gateway/eureka-gateway.iml" filepath="$PROJECT_DIR$/eureka-gateway/eureka-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-hystrix-dashboard/eureka-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/eureka-hystrix-dashboard/eureka-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-ribbon/eureka-ribbon.iml" filepath="$PROJECT_DIR$/eureka-ribbon/eureka-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-zuul/eureka-zuul.iml" filepath="$PROJECT_DIR$/eureka-zuul/eureka-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin-service1/zipkin-service1.iml" filepath="$PROJECT_DIR$/zipkin-service1/zipkin-service1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin-service2/zipkin-service2.iml" filepath="$PROJECT_DIR$/zipkin-service2/zipkin-service2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin-service3/zipkin-service3.iml" filepath="$PROJECT_DIR$/zipkin-service3/zipkin-service3.iml" />
+    </modules>
+  </component>
+</project>
